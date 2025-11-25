@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+└── <html lang="es">
+      │
+      ├── <head>
+      │     ├── <meta charset="UTF-8">
+      │     ├── <title>...</title>
+      │     └── <link rel="stylesheet" href="styles.css">
+      └── <body>
+            │
+            ├── <header>
+            │     ├── <h1>... Título principal ...</h1>
+            │     └── (Opcional) menú de navegación <nav>
+            │
+            ├── <main>
+            │     │
+            │     ├── <section>  ← Bloque temático #1
+            │     │       ├── <h2>Subtítulo de sección</h2>
+            │     │       ├── <p>Párrafo</p>
+            │     │       ├── <img src="..." alt="...">
+            │     │       └── <button>...</button>
+            │     │
+            │     ├── <section>  ← Bloque temático #2
+            │     │       ├── <h2>Subtítulo</h2>
+            │     │       ├── <p>Texto relacionado</p>
+            │     │       └── <ul>
+            │     │             └── <li>Elemento de lista</li>
+            │
+            │     └── <section>  ← Bloque temático #3
+            │             ├── <h2>Subtítulo</h2>
+            │             ├── <h3>Subsubtítulo</h3>
+            │             └── <p>Descripción</p>
+            │
+            └── <footer>
+                  ├── <p>Nombre</p>
+                  └── <p>Año</p>
